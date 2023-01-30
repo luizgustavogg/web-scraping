@@ -1,0 +1,25 @@
+Id,Título,Subtítulo,Link
+1,"
+Trabalhando com dicionários em python",Uma estrutura de dados bastante útil dentro do python são os dicionários. Dicionários são estruturas relativamente ,https://www.erlaniofreire.com.br/web/post/trabalhando-com-dicionarios-em-python/143
+2,"
+Trabalhando com tuplas em python","O que é uma tupla em python?Tuplas são estruturas de dados semelhantes a lista, entretanto com uma característica principal que &",https://www.erlaniofreire.com.br/web/post/trabalhando-com-tuplas-em-python/142
+3,"
+Trabalhando com listas em Python",As listas em Python são uma das formas mais utilizadas para se trabalhar com dados nesta linguagem.Neste post aprenderemos praticamente tudo so,https://www.erlaniofreire.com.br/web/post/trabalhando-com-listas-em-python/141
+4,"
+Como Fazer um INNER JOIN, LEFT JOIN e RIGHT JOIN em SQL","Uma cláusula JOIN é usada para combinar linhas de duas ou mais tabelas, com base em uma coluna relacionada entre elas.Quando você ",https://www.erlaniofreire.com.br/web/post/como-fazer-um-inner-join-left-join-e-right-join-e/139
+5,"
+Comandos SQL - DDL","Criando Tabelas:Uma tabela (table) é um objeto do banco de dados, composto de zero ou mais linhas (rows), contendo os dados, organizados em uma",https://www.erlaniofreire.com.br/web/post/comandos-sql-ddl/138
+6,"
+Comandos SQL - DML","Inserindo dados em uma tabela:Sintaxe:Insert Into nome_tabela(Lista_campos) Values (Lista_Valores)Exemplo:INSERT INTO tb_pessoa(nome, idade) VALUES (",https://www.erlaniofreire.com.br/web/post/comandos-sql-dml/137
+7,"
+MERCADO DE TI: QUAIS SÃO AS PRINCIPAIS TENDÊNCIAS E OPORTUNIDADES PROFISSIONAIS?",A demandas por profissionais competentes que possam atuar no mercado de TI está crescendo cada vez mais. Isso porque a tecnologia está p,https://www.erlaniofreire.com.br/web/post/mercado-de-ti-quais-sao-as-principais-tendencias/135
+8,"
+Como Formatar moeda, dinheiro com PHP",A função a seguir é muito simples e formata qualquer número inteiro ou real no formato do moeda Real do Brasil.$valor = 12,https://www.erlaniofreire.com.br/web/post/como-formatar-moeda-dinheiro-com-php/134
+9,"
+Sensor de Luz Ambiente - LDR com arduino","Neste projeto iremos aprender como usar o sensor LDR (sensor de luz) com o Arduino. O LDR é bastante usado nos postes de luz na cidade, fazendo",https://www.erlaniofreire.com.br/web/post/sensor-de-luz-ambiente-ldr-com-arduino/133
+10,"
+Arrays no PHP: Aprenda como declarar e acessar!","Saber como declarar e acessar arrays no PHP é muito importante. Nesse artigo ensinaremos como trabalhar com arrays simples, associativos e mult",https://www.erlaniofreire.com.br/web/post/arrays-no-php-aprenda-como-declarar-e-acessar/132
+11,"
+Lógica de programação: o que é e por que é importante?","Tudo o que fazemos segue uma sequência lógica.Na grande maioria das vezes, não nos damos conta disso, mas ao fazer uma anál",https://www.erlaniofreire.com.br/web/post/logica-de-programacao-o-que-e-e-por-que-e-importa/128
+12,"
+Computador apitando? Veja o que é cada bip!","Para você que trabalha com manutenção de computadores, certamente já se deparou com um computador apitando, pois é, ",https://www.erlaniofreire.com.br/web/post/computador-apitando-veja-o-que-e-cada-bip/126
